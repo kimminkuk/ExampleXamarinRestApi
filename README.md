@@ -4,10 +4,18 @@ I referred to Microsoft code
 
 # RESULT
 [1] Fresh DB Data (Init Env..)
-![KakaoTalk_20210516_215111723](https://user-images.githubusercontent.com/27074717/118400048-fb2a3c00-b69a-11eb-9133-ba20decd048e.jpg)
+
+![KakaoTalk_20210516_215111723](https://user-images.githubusercontent.com/27074717/118400328-26f9f180-b69c-11eb-9350-98c579fd1941.jpg)
+
+
 
 [2] Add DB Data (테스트2 (TEST2))
-![KakaoTalk_20210516_215111723_01](https://user-images.githubusercontent.com/27074717/118400081-15fcb080-b69b-11eb-901c-d7fe0b5b312b.jpg)
+
+![KakaoTalk_20210516_215111723_01](https://user-images.githubusercontent.com/27074717/118400344-30835980-b69c-11eb-8c89-670610275656.jpg)
+
+
 
 [3] Fresh DB Data ( for DB Data update test)
-![xamarin_rest_3](https://user-images.githubusercontent.com/27074717/118400090-23b23600-b69b-11eb-9cd4-cfca149f3449.png)
+
+![KakaoTalk_20210516_215111723_02](https://user-images.githubusercontent.com/27074717/118400352-3842fe00-b69c-11eb-819f-4a96ec5e687d.jpg)
+
