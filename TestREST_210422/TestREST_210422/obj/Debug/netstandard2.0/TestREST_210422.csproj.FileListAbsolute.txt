@@ -1,0 +1,14 @@
+C:\Users\rlaal\source\repos\TestREST_210422\TestREST_210422\TestREST_210422\obj\Debug\netstandard2.0\TestREST_210422.csprojAssemblyReference.cache
+C:\Users\rlaal\source\repos\TestREST_210422\TestREST_210422\TestREST_210422\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\rlaal\source\repos\TestREST_210422\TestREST_210422\TestREST_210422\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\rlaal\source\repos\TestREST_210422\TestREST_210422\TestREST_210422\obj\Debug\netstandard2.0\TestREST_210422.AssemblyInfoInputs.cache
+C:\Users\rlaal\source\repos\TestREST_210422\TestREST_210422\TestREST_210422\obj\Debug\netstandard2.0\TestREST_210422.AssemblyInfo.cs
+C:\Users\rlaal\source\repos\TestREST_210422\TestREST_210422\TestREST_210422\obj\Debug\netstandard2.0\TestREST_210422.csproj.CoreCompileInputs.cache
+C:\Users\rlaal\source\repos\TestREST_210422\TestREST_210422\TestREST_210422\obj\Debug\netstandard2.0\TestREST_210422.dll
+C:\Users\rlaal\source\repos\TestREST_210422\TestREST_210422\TestREST_210422\obj\Debug\netstandard2.0\ref\TestREST_210422.dll
+C:\Users\rlaal\source\repos\TestREST_210422\TestREST_210422\TestREST_210422\obj\Debug\netstandard2.0\TestREST_210422.pdb
+C:\Users\rlaal\source\repos\TestREST_210422\TestREST_210422\TestREST_210422\bin\Debug\netstandard2.0\TestREST_210422.deps.json
+C:\Users\rlaal\source\repos\TestREST_210422\TestREST_210422\TestREST_210422\bin\Debug\netstandard2.0\TestREST_210422.dll
+C:\Users\rlaal\source\repos\TestREST_210422\TestREST_210422\TestREST_210422\bin\Debug\netstandard2.0\ref\TestREST_210422.dll
+C:\Users\rlaal\source\repos\TestREST_210422\TestREST_210422\TestREST_210422\bin\Debug\netstandard2.0\TestREST_210422.pdb
+C:\Users\rlaal\source\repos\TestREST_210422\TestREST_210422\TestREST_210422\obj\Debug\netstandard2.0\XamlC.stamp

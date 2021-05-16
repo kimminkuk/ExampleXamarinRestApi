@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "hCIn7WOBsEjHbUZUAGrLfa29KUgXpRgt2SFDXdh+U3IM6BxP0Yip9kJ5YCkECECXfaFLZuirurNNGmw2wATCgQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\rlaal\\source\\repos\\TestREST_210422\\TestREST_210422\\TestREST_210422.iOS\\TestREST_210422.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rlaal\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\rlaal\\.nuget\\packages\\xamarin.essentials\\1.5.3.2\\xamarin.essentials.1.5.3.2.nupkg.sha512",
+    "C:\\Users\\rlaal\\.nuget\\packages\\xamarin.forms\\4.8.0.1451\\xamarin.forms.4.8.0.1451.nupkg.sha512"
+  ],
+  "logs": []
+}
